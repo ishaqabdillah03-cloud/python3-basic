@@ -1,0 +1,31 @@
+{
+    "judul":"rukun islam",
+    "jumlah":"5",
+    "rukun": [
+        "1.syahadat",
+        "2.sholat",
+        "3.zakat",
+        "4.puasa",
+        "5.haji"
+    ],
+    "surah": [
+    {
+        "nomer": 1,
+        "nama": "al-fatihah",
+        "jumlah_ayat": 7,
+        "tempat_turun": "makkah"
+    },
+    {
+        "nomer": 2,
+        "nama": "al-baqoroh",
+        "jumlah_ayat": 286,
+        "tempat_turun": "makiyah"
+    },
+    {
+        "nomer": 3,
+        "nama": "ali-imron",
+        "jumlah_ayat": 200,
+        "tempat_turun": "makiyah"
+    }
+    ]
+}
